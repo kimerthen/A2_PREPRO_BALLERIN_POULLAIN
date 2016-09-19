@@ -1,0 +1,64 @@
+.iena{
+    background: url(../img/iena.jpg) no-repeat center ;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 5px;
+    border: solid;
+    border-radius: 2px;
+}
+.art{
+    background: url(../img/art.jpg) no-repeat center ;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 5px;
+    border: solid;
+    border-radius: 2px;
+}
+.invalides{
+    background: url(../img/invalides.jpg) no-repeat center ;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 5px;
+    border: solid;
+    border-radius: 2px;
+}
+.mirabeau{
+    background: url(../img/mirabeau.JPG) no-repeat center ;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 5px;
+    border: solid;
+    border-radius: 2px;
+}
+.neuf{
+    background: url(../img/neuf.jpg) no-repeat center ;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 5px;
+    border: solid;
+    border-radius: 2px;
+}
+h3{
+    text-align: center;
+    color: #ffffff;
+}
+h2{
+    text-align: center;
+    color: #ffffff;
+}
+h2:hover{
+    color: #ffffff;
+    text-decoration: none !important;
+}
+h3:hover{
+    color: #ffffff;
+    text-decoration: none !important;
+}
+
+a{
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: none;
+}
