@@ -78,10 +78,10 @@
                     <div class="invalides" >
                     <a href="invalides.html">
                         <h2 class="post-title">
-                            Pont Alexandre III
+                            Pack Travel
                         </h2>
                         <h3 class="post-subtitle">
-                            Pont reliant Les Invalides et le Grand Palais.
+                            Quand t'as la Flem
                         </h3>
                     </a>
                     </div>
@@ -91,10 +91,10 @@
                     <div class="mirabeau" >
                     <a href="mirabeau.html">
                         <h2 class="post-title">
-                            Pont Mirabeau
+                            Pack Hotel
                         </h2>
                         <h3 class="post-subtitle">
-                            Situé à la station Javel, ce pont à fait objet d'une poésie.
+                            Quand t'es pas d'ici
                         </h3>
                     </a>
                     </div>
@@ -104,10 +104,10 @@
                     <div class="neuf" >
                     <a href="neuf.html">
                         <h2 class="post-title">
-                            Pont Neuf
+                            Pack VIP
                         </h2>
                         <h3 class="post-subtitle">
-                            Le plus vieux pont de Paris.
+                            Quand t'es pété de thune
                         </h3>
                     </a>
                     </div>
