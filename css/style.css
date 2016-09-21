@@ -1,7 +1,7 @@
 .cover{
     background-image: url("../img/tickets.png");
     background-repeat: no-repeat;
-    height: 1200px;
+    height: 1400px;
     background-size: contain;
     width:100%;
     position: absolute;
@@ -31,7 +31,7 @@
     float: left;
 }
 .iena{
-    background: url(../img/iena.jpg) no-repeat center ;
+    background: url(../img/iena.png) no-repeat center ;
     padding-top: 10px;
     padding-bottom: 10px;
     padding-left: 5px;
@@ -39,7 +39,7 @@
     border-radius: 2px;
 }
 .art{
-    background: url(../img/art.jpg) no-repeat center ;
+    background: url(../img/art.png) no-repeat center ;
     padding-top: 10px;
     padding-bottom: 10px;
     padding-left: 5px;
@@ -47,7 +47,7 @@
     border-radius: 2px;
 }
 .invalides{
-    background: url(../img/invalides.jpg) no-repeat center ;
+    background: url(../img/invalides.png) no-repeat center ;
     padding-top: 10px;
     padding-bottom: 10px;
     padding-left: 5px;
@@ -55,7 +55,7 @@
     border-radius: 2px;
 }
 .mirabeau{
-    background: url(../img/mirabeau.JPG) no-repeat center ;
+    background: url(../img/mirabeau.png) no-repeat center ;
     padding-top: 10px;
     padding-bottom: 10px;
     padding-left: 5px;
@@ -63,7 +63,7 @@
     border-radius: 2px;
 }
 .neuf{
-    background: url(../img/neuf.jpg) no-repeat center ;
+    background: url(../img/neuf.png) no-repeat center ;
     padding-top: 10px;
     padding-bottom: 10px;
     padding-left: 5px;
