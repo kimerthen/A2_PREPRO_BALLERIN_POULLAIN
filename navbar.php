@@ -19,10 +19,16 @@
                         <a href="#">Accueil</a>
                     </li>
                     <li>
-                        <a href="#container">Liste des Evènements</a>
+                        <a href="#container">Partenaires</a>
                     </li>
                     <li>
-                        <a href="contact.html">Contact</a>
+                        <a href="contact.html">Line-up</a>
+                    </li>
+                    <li>
+                        <a href="contact.html">Billeterie</a>
+                    </li>
+                    <li>
+                        <a href="contact.html">Plan</a>
                     </li>
                 </ul>
             </div>
