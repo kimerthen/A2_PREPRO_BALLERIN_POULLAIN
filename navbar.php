@@ -20,16 +20,16 @@
                         <a href="home.php">Accueil</a>
                     </li>
                     <li>
-                        <a href="artist.php">Partenaires</a>
-                    </li>
-                    <li>
-                        <a href="contact.html">Line-up</a>
-                    </li>
-                    <li>
                         <a href="home.php#container">Billeterie</a>
                     </li>
                     <li>
-                        <a href="contact.html">Plan</a>
+                        <a href="artist.php">Partenaires</a>
+                    </li>
+                    <li>
+                        <a href="contact.php">Line-up</a>
+                    </li>
+                    <li>
+                        <a href="contact.php">Plan</a>
                     </li>
                 </ul>
             </div>
