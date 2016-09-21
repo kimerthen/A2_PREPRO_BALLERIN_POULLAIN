@@ -19,7 +19,7 @@
                         <a href="#">Accueil</a>
                     </li>
                     <li>
-                        <a href="#container">Partenaires</a>
+                        <a href="artist.php">Partenaires</a>
                     </li>
                     <li>
                         <a href="contact.html">Line-up</a>
