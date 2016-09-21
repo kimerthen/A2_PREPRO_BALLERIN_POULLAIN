@@ -29,7 +29,7 @@
                             </a>
                         </li>
                     </ul>
-                    <p class="copyright text-muted">Copyright &copy; jonathan-poullain.com 2015</p>
+                    <p class="copyright text-muted">Copyright &copy; jonathan-poullain.com vincent.ballerin78@gmail.com 2016</p>
                 </div>
             </div>
         </div>
