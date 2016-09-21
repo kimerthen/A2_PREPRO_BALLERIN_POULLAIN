@@ -1,7 +1,7 @@
 .cover{
     background-image: url("../img/tickets.png");
     background-repeat: no-repeat;
-    height: 1200px;
+    height: 1400px;
     background-size: contain;
     width:100%;
     position: absolute;
@@ -21,6 +21,10 @@
     margin-bottom: inherit !important;
     background-color: #000000;
 }
+.thumbnail{
+    border:solid;
+    border-radius: 5px;
+}
 
 #logo{
     height: auto;
@@ -31,44 +35,39 @@
     float: left;
 }
 .iena{
-    background: url(../img/iena.jpg) no-repeat center ;
-    padding-top: 10px;
-    padding-bottom: 10px;
+    background: url(../img/art.png) no-repeat center ;
+    padding-top: 50px;
+    padding-bottom: 50px;
     padding-left: 5px;
-    border: solid;
-    border-radius: 2px;
+    border-radius: 9px;
 }
 .art{
-    background: url(../img/art.jpg) no-repeat center ;
-    padding-top: 10px;
-    padding-bottom: 10px;
+    background: url(../img/art.png) no-repeat center ;
+    padding-top: 50px;
+    padding-bottom: 50px;
     padding-left: 5px;
-    border: solid;
-    border-radius: 2px;
+    border-radius: 9px;
 }
 .invalides{
-    background: url(../img/invalides.jpg) no-repeat center ;
-    padding-top: 10px;
-    padding-bottom: 10px;
+    background: url(../img/art.png) no-repeat center ;
+    padding-top: 50px;
+    padding-bottom: 50px;
     padding-left: 5px;
-    border: solid;
-    border-radius: 2px;
+    border-radius: 9px;
 }
 .mirabeau{
-    background: url(../img/mirabeau.JPG) no-repeat center ;
-    padding-top: 10px;
-    padding-bottom: 10px;
+    background: url(../img/art.png) no-repeat center ;
+    padding-top: 50px;
+    padding-bottom: 50px;
     padding-left: 5px;
-    border: solid;
-    border-radius: 2px;
+    border-radius: 9px;
 }
 .neuf{
-    background: url(../img/neuf.jpg) no-repeat center ;
-    padding-top: 10px;
-    padding-bottom: 10px;
+    background: url(../img/art.png) no-repeat center ;
+    padding-top: 50px;
+    padding-bottom: 50px;
     padding-left: 5px;
-    border: solid;
-    border-radius: 2px;
+    border-radius: 9px;
 }
 h3{
     text-align: center;

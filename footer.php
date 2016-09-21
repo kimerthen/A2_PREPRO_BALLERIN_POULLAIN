@@ -29,8 +29,19 @@
                             </a>
                         </li>
                     </ul>
-                    <p class="copyright text-muted">Copyright &copy; jonathan-poullain.com 2015</p>
+                    <p class="copyright text-muted">Copyright &copy; jonathan-poullain.com vincent.ballerin78@gmail.com 2016</p>
                 </div>
             </div>
         </div>
     </footer>
+
+
+<!-- jQuery -->
+<script src="js/jquery.js"></script>
+<script src="js/index.js"></script>
+
+<!-- Bootstrap Core JavaScript -->
+<script src="js/bootstrap.min.js"></script>
+
+<!-- Custom Theme JavaScript -->
+<script src="js/clean-blog.min.js"></script>
