@@ -9,7 +9,7 @@
     <meta name="description" content="">
     <meta name="author" content="">
 
-    <title>Ponts de Paris</title>
+    <title>DreamNation</title>
 
     <!-- Bootstrap Core CSS -->
     <link href="css/bootstrap.min.css" rel="stylesheet">
@@ -46,7 +46,7 @@
                     <span class="icon-bar"></span>
                     <span class="icon-bar"></span>
                 </button>
-                <a class="navbar-brand" href="index.html">Les Ponts de Paris</a>
+                <a class="navbar-brand" href="index.html"> DreamNation</a>
             </div>
 
             <!-- Collect the nav links, forms, and other content for toggling -->
@@ -56,7 +56,7 @@
                         <a href="#">Accueil</a>
                     </li>
                     <li>
-                        <a href="#container">Liste des ponts</a>
+                        <a href="#container">Liste des Evènements</a>
                     </li>
                     <li>
                         <a href="contact.html">Contact</a>
@@ -76,31 +76,28 @@
         </video>
     </header>
 
+    <div class="tick">
+        <div class="cover">
+
+        </div>
+
+    </div>
+
     <!-- Main Content -->
     <div class="container" id="container">
         <div class="row">
             <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
                 <div class="post-preview">
-                    <div class="iena">
-                    <a href="iena.html">
-                        <h2 class="post-title">
-                            Pont d'Iena
-                        </h2>
-                        <h3 class="post-subtitle">
-                            Le pont reliant Trocadéro et la Tour Eiffel.
-                        </h3>
-                    </a>
-                    </div>
                 </div>
                 <hr>
                 <div class="post-preview">
                     <div class="art" >
                     <a href="arts.html">
                         <h2 class="post-title">
-                            Pont des Arts
+                            Early Tickets
                         </h2>
                         <h3 class="post-subtitle">
-                            Aussi connu sous le nom du Pont des Amoureux.
+                            Jusqu'au 27/09
                         </h3>
                     </a>
                     </div>
