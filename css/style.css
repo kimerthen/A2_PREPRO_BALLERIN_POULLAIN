@@ -21,6 +21,10 @@
     margin-bottom: inherit !important;
     background-color: #000000;
 }
+.thumbnail{
+    border:solid;
+    border-radius: 5px;
+}
 
 #logo{
     height: auto;

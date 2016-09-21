@@ -17,7 +17,7 @@
             <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
                 <ul class="nav navbar-nav navbar-right">
                     <li>
-                        <a href="#">Accueil</a>
+                        <a href="home.php">Accueil</a>
                     </li>
                     <li>
                         <a href="artist.php">Partenaires</a>
@@ -26,7 +26,7 @@
                         <a href="contact.html">Line-up</a>
                     </li>
                     <li>
-                        <a href="contact.html">Billeterie</a>
+                        <a href="home.php#container">Billeterie</a>
                     </li>
                     <li>
                         <a href="contact.html">Plan</a>
