@@ -7,7 +7,7 @@ include "head.php";
     <?php
     include "navbar.php";
     ?>
-
+    
     <!-- Page Header -->
     <!-- Set your background image for this header on the line below. -->
     <header class="intro-header" style="background-image: url('img/plat.jpg')">
