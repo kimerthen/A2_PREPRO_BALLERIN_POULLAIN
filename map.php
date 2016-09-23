@@ -17,7 +17,6 @@ include "head.php";
                     <div class="page-heading">
                         <h1>Plan</h1>
                         <hr class="small">
-                        <span class="subheading">Comment acceder au site ?</span>
                     </div>
                 </div>
             </div>
