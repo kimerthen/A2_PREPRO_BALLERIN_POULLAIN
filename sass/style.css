@@ -46,17 +46,6 @@ a:hover {
   text-decoration: none;
 }
 
-.cover {
-  background-image: url("../img/tickets.png");
-  background-repeat: no-repeat;
-  height: 1400px;
-  background-size: contain;
-  width: 100%;
-  position: absolute;
-  float: left;
-  border-bottom: 5px, black, solid;
-}
-
 .intro-header {
   margin-bottom: inherit !important;
   background-color: #000000;
@@ -75,6 +64,13 @@ a:hover {
 .navbar-brand {
   text-align: center;
   float: left;
+  font-family: "capture" !important;
+  font-size: 30px !important;
+}
+
+.navbar-custom {
+  font-family: "coolvetica" !important;
+  font-size: 30px !important;
 }
 
 .bouton-ticket {
