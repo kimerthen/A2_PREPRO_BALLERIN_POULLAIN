@@ -18,7 +18,8 @@ include "head.php";
 
 
     <!-- Main Content -->
-        <div class="cover">
+        <div class="intro-header" style="background-image: url('img/tickets.png')">
+            <div class="container">
             <div class="col-md-12 col-sm-12 col-xs-12">
                 <div class="row">
                     <div class="col-lg-10 col-lg-offset-1 col-md-10 col-md-offset-1">
@@ -74,11 +75,11 @@ include "head.php";
                 </div>
             </div>
         </div>
+    </div>
 
     <?php
     include "footer.php";
     ?>
 
 </body>
-
 </html>

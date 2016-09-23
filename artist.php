@@ -142,12 +142,10 @@ include "head.php";
                 <a href="img/contact-bg.jpg" class="thumbnail">     
                 <img src="img/contact-bg.jpg" style="width:100%;height:auto">
                 </a>
-            </div>
-         
-           
-        </div>
+            </div>  
         </div>
     </div>
+</div>
 
 <?php
     include "footer.php"; 
