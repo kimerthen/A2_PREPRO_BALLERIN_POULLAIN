@@ -25,7 +25,7 @@ include "head.php";
                     <div class="col-lg-10 col-lg-offset-1 col-md-10 col-md-offset-1">
                         <div class="post-preview ">
                             <div class="bouton-ticket col-lg-6 col-lg-offset-3 col-md-6 col-md-offset-3 col-sm-6 col-sm-offset-3" >
-                                <a href="http://www.digitick.com/dream-nation-festival-after-techno-parade-soiree-les-docks-de-paris-aubervilliers-24-septembre-2016-css4-digitick-pg101-ri3965817.html?utm_source=http%3A%2F%2Fwww.digitick.com&utm_medium=patchwork&utm_campaign=23052016patchworkDreamNationAfterTechnoParade&gclid=CjwKEAjwgo6_BRC32q6_5s2R-R8SJAB7hTG-bRYHhtDSQDSsvNLfAaaaJIsacdRVzqa3Yzop8VuqUxoC_RDw_wcB">
+                                <a href="http://www.digitick.com/dream-nation-festival-after-techno-parade-soiree-les-docks-de-paris-aubervilliers-24-septembre-2016-css4-digitick-pg101-ri3965817.html?utm_source=http%3A%2F%2Fwww.digitick.com&utm_medium=patchwork&utm_campaign=23052016patchworkDreamNationAfterTechnoParade&gclid=CjwKEAjwgo6_BRC32q6_5s2R-R8SJAB7hTG-bRYHhtDSQDSsvNLfAaaaJIsacdRVzqa3Yzop8VuqUxoC_RDw_wcB" target="_blank">
                                     <h2 class="post-title">
                                         Early Tickets
                                     </h2>
@@ -37,7 +37,7 @@ include "head.php";
                         </div>
                         <div class="post-preview">
                             <div class="bouton-ticket col-lg-6 col-lg-offset-3 col-md-6 col-md-offset-3 col-sm-6 col-sm-offset-3" >
-                                <a href="http://www.digitick.com/dream-nation-festival-after-techno-parade-soiree-les-docks-de-paris-aubervilliers-24-septembre-2016-css4-digitick-pg101-ri3965817.html?utm_source=http%3A%2F%2Fwww.digitick.com&utm_medium=patchwork&utm_campaign=23052016patchworkDreamNationAfterTechnoParade&gclid=CjwKEAjwgo6_BRC32q6_5s2R-R8SJAB7hTG-bRYHhtDSQDSsvNLfAaaaJIsacdRVzqa3Yzop8VuqUxoC_RDw_wcB">
+                                <a href="http://www.digitick.com/dream-nation-festival-after-techno-parade-soiree-les-docks-de-paris-aubervilliers-24-septembre-2016-css4-digitick-pg101-ri3965817.html?utm_source=http%3A%2F%2Fwww.digitick.com&utm_medium=patchwork&utm_campaign=23052016patchworkDreamNationAfterTechnoParade&gclid=CjwKEAjwgo6_BRC32q6_5s2R-R8SJAB7hTG-bRYHhtDSQDSsvNLfAaaaJIsacdRVzqa3Yzop8VuqUxoC_RDw_wcB" target="_blank">
                                     <h2 class="post-title">
                                         Pack Travel
                                     </h2>
@@ -49,7 +49,7 @@ include "head.php";
                         </div>
                         <div class="post-preview">
                             <div class="bouton-ticket col-lg-6 col-lg-offset-3 col-md-6 col-md-offset-3 col-sm-6 col-sm-offset-3"  >
-                                <a href="http://www.digitick.com/dream-nation-festival-after-techno-parade-soiree-les-docks-de-paris-aubervilliers-24-septembre-2016-css4-digitick-pg101-ri3965817.html?utm_source=http%3A%2F%2Fwww.digitick.com&utm_medium=patchwork&utm_campaign=23052016patchworkDreamNationAfterTechnoParade&gclid=CjwKEAjwgo6_BRC32q6_5s2R-R8SJAB7hTG-bRYHhtDSQDSsvNLfAaaaJIsacdRVzqa3Yzop8VuqUxoC_RDw_wcB">
+                                <a href="http://www.digitick.com/dream-nation-festival-after-techno-parade-soiree-les-docks-de-paris-aubervilliers-24-septembre-2016-css4-digitick-pg101-ri3965817.html?utm_source=http%3A%2F%2Fwww.digitick.com&utm_medium=patchwork&utm_campaign=23052016patchworkDreamNationAfterTechnoParade&gclid=CjwKEAjwgo6_BRC32q6_5s2R-R8SJAB7hTG-bRYHhtDSQDSsvNLfAaaaJIsacdRVzqa3Yzop8VuqUxoC_RDw_wcB" target="_blank">
                                     <h2 class="post-title">
                                         Pack Hotel
                                     </h2>
@@ -61,7 +61,7 @@ include "head.php";
                         </div>
                         <div class="post-preview">
                             <div class="bouton-ticket col-lg-6 col-lg-offset-3 col-md-6 col-md-offset-3 col-sm-6 col-sm-offset-3" >
-                                <a href="http://www.digitick.com/dream-nation-festival-after-techno-parade-soiree-les-docks-de-paris-aubervilliers-24-septembre-2016-css4-digitick-pg101-ri3965817.html?utm_source=http%3A%2F%2Fwww.digitick.com&utm_medium=patchwork&utm_campaign=23052016patchworkDreamNationAfterTechnoParade&gclid=CjwKEAjwgo6_BRC32q6_5s2R-R8SJAB7hTG-bRYHhtDSQDSsvNLfAaaaJIsacdRVzqa3Yzop8VuqUxoC_RDw_wcB">
+                                <a href="http://www.digitick.com/dream-nation-festival-after-techno-parade-soiree-les-docks-de-paris-aubervilliers-24-septembre-2016-css4-digitick-pg101-ri3965817.html?utm_source=http%3A%2F%2Fwww.digitick.com&utm_medium=patchwork&utm_campaign=23052016patchworkDreamNationAfterTechnoParade&gclid=CjwKEAjwgo6_BRC32q6_5s2R-R8SJAB7hTG-bRYHhtDSQDSsvNLfAaaaJIsacdRVzqa3Yzop8VuqUxoC_RDw_wcB" target="_blank">
                                     <h2 class="post-title">
                                         Pack VIP
                                     </h2>
