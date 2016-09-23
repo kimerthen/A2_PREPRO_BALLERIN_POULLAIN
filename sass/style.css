@@ -93,3 +93,10 @@ footer {
 .artist-background {
   background: url(../img/bricks.jpg) repeat;
 }
+
+.bloc-contain p {
+  color: white;
+  text-align: center;
+  font-family: coolvetica;
+  font-size: 30px;
+}
