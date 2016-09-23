@@ -10,7 +10,7 @@
                     <span class="icon-bar"></span>
                     <span class="icon-bar"></span>
                 </button>
-                <a class="navbar-brand" href="home.php"> DreamNation</a>
+                <a class="navbar-brand" href="home.php"> Dream Nation</a>
             </div>
 
             <!-- Collect the nav links, forms, and other content for toggling -->
@@ -20,10 +20,10 @@
                         <a href="home.php">Accueil</a>
                     </li>
                     <li>
-                        <a href="home.php#container">Billeterie</a>
+                         <a href="http://www.digitick.com/dream-nation-festival-after-techno-parade-soiree-les-docks-de-paris-aubervilliers-24-septembre-2016-css4-digitick-pg101-ri3965817.html" target="_blank">Billeterie</a> 
                     </li>
                     <li>
-                        <a href="artist.php">Partenaires</a>
+                        <a href="artist.php">Artistes</a>
                     </li>
                     <li>
                         <a href="lineup.php">Line-up</a>
