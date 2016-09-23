@@ -118,3 +118,20 @@ footer {
   font-family: "coolvetica";
   font-size: 30px;
 }
+
+#map {
+  height: 500px;
+  border: solid;
+  border-radius: 5px;
+  border-color: #404040;
+}
+
+.carte {
+  padding-top: 30px;
+}
+
+.carte h3 {
+  color: #212121 !important;
+  font-family: "coolvetica";
+  padding-bot: 20px;
+}
