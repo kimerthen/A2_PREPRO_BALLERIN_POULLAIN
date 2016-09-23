@@ -3,7 +3,7 @@ include "head.php";
 ?>
 
 
-<body>
+<body class="artist-background">
 
     
 <?php
@@ -11,7 +11,7 @@ include "head.php";
 ?>
 
 
-<header class="intro-header" style="background-image: url('img/banner.png ')">
+<header class="intro-header" style="background-image: url('img/banner.jpg ')">
     <div class="container">
         <div class="row">
             <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
@@ -24,13 +24,14 @@ include "head.php";
         </div>
     </div>
 </header>
-<div class="container first-contain">
+
+<div class="container">
     <div class="bloc-contain row">
         <div class="container row">
             <div class="col-md-4">
                 <p>Doctor P</p>
                 <a href="img/DoctorP.jpg" class="thumbnail">
-                <img src="img/DoctorP.jpg" style="width:100%;height:auto;">
+                    <img src="img/DoctorP.jpg" style="width:100%;height:auto;">
                 </a>
                 <p>Astrix</p>
                 <a href="img/astrix.jpg" class="thumbnail">
