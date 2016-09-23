@@ -411,7 +411,7 @@ include "head.php";
                 <p>XSI</p>
 
                             <!-- Button trigger modal -->
-                            <button type="button" class="btn btn-sm" data-toggle="modal" data-target="#myModal17">
+                            <button type="button" style="margin-bottom:30px !important" class="btn btn-sm" data-toggle="modal" data-target="#myModal17">
                                 <img src="img/XSI.jpg" style="width:100%;height:auto">
                             </button>
 

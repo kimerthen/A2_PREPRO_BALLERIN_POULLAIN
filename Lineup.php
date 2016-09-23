@@ -16,6 +16,7 @@ include "head.php";
                 <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
                     <div class="page-heading">
                         <h1>Line-up</h1>
+                        <hr class="small">
                     </div>
                 </div>
             </div>
@@ -23,7 +24,7 @@ include "head.php";
     </header>
 
     <!-- Main Content -->
-    <div class="container">
+    <div class="container"style="margin-top:30px; margin-bottom:30px">
         <div class="row">
             <div class="col-lg-10 col-lg-offset-1 col-md-10 col-md-offset-1">
 
