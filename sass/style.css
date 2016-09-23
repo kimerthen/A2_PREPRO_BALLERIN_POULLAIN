@@ -49,6 +49,11 @@ a:hover {
 .intro-header {
   margin-bottom: inherit !important;
   background-color: #000000;
+  border-bottom: solid 20px solid black !important;
+}
+
+.intro-header h1 {
+  font-family: "capture";
 }
 
 .thumbnail {
@@ -127,7 +132,7 @@ footer {
 }
 
 .carte h3 {
-  color: #ffffff !important;
+  color: #212121 !important;
   font-family: "coolvetica";
   padding-bot: 20px;
 }
