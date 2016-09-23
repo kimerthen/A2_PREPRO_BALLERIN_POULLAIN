@@ -2,12 +2,11 @@
 include "head.php";
 ?>
 
+<body class="artist-background">
 
-<body>
-
-<?php
-include "navbar.php";
-?>
+    <?php
+    include "navbar.php";
+    ?>
 
     <!-- Page Header -->
     <!-- Set your background image for this header on the line below. -->
@@ -18,7 +17,7 @@ include "navbar.php";
                     <div class="page-heading">
                         <h1>Plan</h1>
                         <hr class="small">
-                        <span class="subheading">Comment avoir accès au site?</span>
+                        <span class="subheading">Comment acceder au site ?</span>
                     </div>
                 </div>
             </div>
@@ -35,9 +34,6 @@ include "navbar.php";
             </div>
         </div>
     </div>
-
-    <hr>
-
 
 <?php
 include "footer.php";
