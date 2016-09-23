@@ -11,14 +11,14 @@ include "navbar.php";
 
     <!-- Page Header -->
     <!-- Set your background image for this header on the line below. -->
-    <header class="intro-header" style="background-image: url('img/contact-bg.jpg')">
+    <header class="intro-header" style="background-image: url('img/plat.jpg')">
         <div class="container">
             <div class="row">
                 <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
                     <div class="page-heading">
-                        <h1>Contact</h1>
+                        <h1>Plan</h1>
                         <hr class="small">
-                        <span class="subheading">Des questions?</span>
+                        <span class="subheading">Comment avoir accès au site?</span>
                     </div>
                 </div>
             </div>
@@ -29,47 +29,9 @@ include "navbar.php";
     <div class="container">
         <div class="row">
             <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
-                <p>Voulez-vous être mis en contacte avec moi? Remplissez les cases en dessous, j'essaierai de vous répondre dans les 24 heures.</p>
-
-
-
-                <form name="sentMessage" id="contactForm" novalidate>
-                    <div class="row control-group">
-                        <div class="form-group col-xs-12 floating-label-form-group controls">
-                            <label>Nom</label>
-                            <input type="text" class="form-control" placeholder="Nom" id="name" required data-validation-required-message="Entrez votre nom.">
-                            <p class="help-block text-danger"></p>
-                        </div>
-                    </div>
-                    <div class="row control-group">
-                        <div class="form-group col-xs-12 floating-label-form-group controls">
-                            <label>Adresse mail</label>
-                            <input type="email" class="form-control" placeholder="Adresse mail" id="email" required data-validation-required-message="Entrez votre adresse mail.">
-                            <p class="help-block text-danger"></p>
-                        </div>
-                    </div>
-                    <div class="row control-group">
-                        <div class="form-group col-xs-12 floating-label-form-group controls">
-                            <label>Téléphone</label>
-                            <input type="tel" class="form-control" placeholder="Téléphone" id="phone" required data-validation-required-message="Entrez votre numéro de téléphone.">
-                            <p class="help-block text-danger"></p>
-                        </div>
-                    </div>
-                    <div class="row control-group">
-                        <div class="form-group col-xs-12 floating-label-form-group controls">
-                            <label>Message</label>
-                            <textarea rows="5" class="form-control" placeholder="Message" id="message" required data-validation-required-message="Entrez un message."></textarea>
-                            <p class="help-block text-danger"></p>
-                        </div>
-                    </div>
-                    <br>
-                    <div id="success"></div>
-                    <div class="row">
-                        <div class="form-group col-xs-12">
-                            <button type="submit" class="btn btn-default">Envoyer</button>
-                        </div>
-                    </div>
-                </form>
+                <div class="carte">
+                    <h3>La Carte</h3>
+                    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2622.7081244808023!2d2.3678114067160125!3d48.90189944896885!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47e66c29d1d74ee3%3A0x4b523981c7673c86!2s45+Avenue+Victor+Hugo%2C+93300+Aubervilliers!5e0!3m2!1sfr!2sfr!4v1474636754701" width="100%" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>                </div>
             </div>
         </div>
     </div>
