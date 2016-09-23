@@ -3,7 +3,7 @@
 $maCouleur: white;
 $font1 : "action-man";
 $font2 : "newrock";
-
+*/
 @font-face {
     font-family: 'coolvetica';
     src: url('../fonts/coolvetica_rg-webfont.woff2') format('woff2'),
@@ -11,7 +11,7 @@ $font2 : "newrock";
     font-weight: normal;
     font-style: normal;
 }
-*/
+
 h2{
 	text-align: center;
     color: #ffffff;
@@ -70,13 +70,17 @@ a{
     background: url(../img/art.png) no-repeat center ;
     background-size: 100% auto;
 	background-repeat:no-repeat;
-	margin-top : 50px;
-	margin-bottom : 30px;
+	margin-top : 10px;
+	margin-bottom : 10px;
+  padding-top: 50px ;
+  padding-bottom: 50px;
+  padding-right: 0px !important;
+  padding-left: 0px !important;
 }
 footer {
   padding-top: 30px;
   padding-bottom: 40px;
-  margin-top: 40px;
+  margin-top: 0px;
   border-top: 3px solid #660000;
   color: white;
   font-family: "action-man";
