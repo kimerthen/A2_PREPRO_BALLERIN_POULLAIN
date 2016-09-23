@@ -26,10 +26,10 @@
                         <a href="artist.php">Partenaires</a>
                     </li>
                     <li>
-                        <a href="contact.php">Line-up</a>
+                        <a href="lineup.php">Line-up</a>
                     </li>
                     <li>
-                        <a href="contact.php">Plan</a>
+                        <a href="map.php">Plan</a>
                     </li>
                 </ul>
             </div>
