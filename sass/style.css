@@ -52,8 +52,8 @@ a:hover {
 }
 
 .thumbnail {
-  border: solid;
-  border-radius: 5px;
+  border: solid !important;
+  border-radius: 5px !important;
 }
 
 #logo {
@@ -130,4 +130,16 @@ footer {
   color: #212121 !important;
   font-family: "coolvetica";
   padding-bot: 20px;
+}
+
+.btn {
+  padding: 0px !important;
+  background-color: #ffffff !important;
+}
+
+.btn-sm {
+  padding: 0px !important;
+  border: solid !important;
+  border-radius: 5px !important;
+  background-color: #ffffff !important;
 }
