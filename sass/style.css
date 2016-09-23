@@ -81,13 +81,20 @@ a:hover {
   padding-left: 0px !important;
 }
 
+.bouton-ticket h2 {
+  font-family: "coolvetica";
+}
+
+.bouton-ticket h3 {
+  font-family: "coolvetica";
+}
+
 footer {
   padding-top: 30px;
   padding-bottom: 40px;
   margin-top: 0px;
   border-top: 3px solid #660000;
   color: white;
-  font-family: "action-man";
   text-align: center;
   background-color: #252623 !important;
   border-color: black !important;
@@ -100,6 +107,6 @@ footer {
 .bloc-contain p {
   color: white;
   text-align: center;
-  font-family: coolvetica;
+  font-family: "coolvetica";
   font-size: 30px;
 }

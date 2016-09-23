@@ -76,6 +76,12 @@ a{
   padding-bottom: 50px;
   padding-right: 0px !important;
   padding-left: 0px !important;
+  h2{
+    font-family:"coolvetica";
+  }
+  h3{
+    font-family:"coolvetica";
+  }
 }
 footer {
   padding-top: 30px;
@@ -83,7 +89,6 @@ footer {
   margin-top: 0px;
   border-top: 3px solid #660000;
   color: white;
-  font-family: "action-man";
   text-align: center;
   background-color: #252623 !important;
   border-color: black !important;
@@ -95,7 +100,7 @@ footer {
     p{
         color:white;
         text-align: center;
-        font-family: coolvetica;
+        font-family: "coolvetica";
         font-size: 30px;
 
     }
