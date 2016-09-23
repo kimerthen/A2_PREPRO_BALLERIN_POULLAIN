@@ -18,7 +18,7 @@ include "head.php";
 
 
     <!-- Main Content -->
-        <div class="intro-header" style="background-image: url('img/dreamnation-fond.jpg')">
+        <div class="intro-header" style="background-image: url('img/dn-fond.jpg')">
             <div class="container">
             <div class="col-md-12 col-sm-12 col-xs-12">
                 <div class="row">
